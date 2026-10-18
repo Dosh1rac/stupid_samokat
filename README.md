@@ -1,6 +1,7 @@
 # Boosted USA
 
 Учебный проект — вёрстка сайта Boosted USA по макету из Figma йоу.
+https://www.figma.com/design/eUhQTRceLilzTDPtKmiiy9/BOOSTEDusa?node-id=1-1668&t=vhZ12WqD7liLpWQd-0
 
 ## 🛠 Технологии
 - HTML
